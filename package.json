@@ -1,0 +1,43 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo-google-fonts/inter": "^0.2.3",
+    "@expo/vector-icons": "^13.0.0",
+    "@expo/webpack-config": "^19.0.0",
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-regular-svg-icons": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@huggingface/inference": "^2.6.4",
+    "@react-navigation/native": "^6.1.9",
+    "@react-navigation/native-stack": "^6.9.17",
+    "@terrylinla/react-native-sketch-canvas": "^0.8.0",
+    "axios": "^1.6.2",
+    "expo": "~49.0.15",
+    "expo-font": "~11.4.0",
+    "expo-image-picker": "~14.3.2",
+    "expo-linear-gradient": "^12.5.0",
+    "expo-media-library": "^15.6.0",
+    "expo-splash-screen": "~0.20.5",
+    "expo-status-bar": "~1.6.0",
+    "openai": "^4.20.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.72.6",
+    "react-native-elements": "^3.4.3",
+    "react-native-view-shot": "^3.8.0",
+    "react-native-web": "~0.19.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
