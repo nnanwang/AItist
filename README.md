@@ -1,5 +1,5 @@
 # AItist
-A React Native Expo mobile application, leveraging **OpenAI's DALL-E 3 API** to enhance social media content with image and meme editing features. <br>
+A React Native Expo mobile application, leveraging **OpenAI's DALL-E 3 API** to enhance social media content with image and meme editing features. <br><br>
 <img width="905" alt="image" src="https://github.com/nnanwang/AItist/assets/74788199/654c4b5d-6557-4faf-b9ef-2b75a774218f">
 
 
