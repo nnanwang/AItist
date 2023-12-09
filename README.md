@@ -23,14 +23,14 @@ A React Native Expo mobile application, leveraging **OpenAI's DALL-E 3 API** to 
 - Save images.
 
 ## Run this App
-### Set up the environment
+### 1. Set up the environment
 ```npm install```
 
-### Set up your OpenAI API key
+### 2. Set up your OpenAI API key
 - create a *open_api_key.js* file in the component folder
 - Put your key in the file: ```export default '<Your OpenAI API Key>'```
 
-### Preview App in Expo 
+### 3. Preview App in Expo 
 - ``` npx expo start```
 - Download Expo App on your phone
 - Scan the QR code in the terminal
