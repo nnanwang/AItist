@@ -1,26 +1,23 @@
 # AItist
-A React Native Expo mobile application, leveraging **OpenAI's DALL-E 3 API** to enhance social media content with image and meme editing features. <br><br>
+Explore the AI Image Assistant, a cutting-edge application designed to revitalize your social media presence through AI-driven visual content. Harness the power of **OpenAI DALLE 3 API** to craft unique images, memes, and portraits tailored to your narrative.<br><br>
 <img width="905" alt="image" src="https://github.com/nnanwang/AItist/assets/74788199/654c4b5d-6557-4faf-b9ef-2b75a774218f">
 
 
 ## Four Key Features
-### AI Portrait 
-- Allow users to input prompt and select style to generate AI portraits.
-- Save images.
+#### :woman: AI Portrait 
+- Craft unique self-portraits with the aid of AI.
+- Allow to select portrait styles.
 
+#### :grinning: Meme Artist  
+- Convert your stories into engaging memes with custom top and bottom text overlays.
 
-### Meme Artist
-- Allow users to input story to generate meme.
-- Add top text and bottom text on the generated memes.
-- Save memes with input texts.
+#### :heart_eyes_cat: Mood Generator 
+- Generate images that resonate with your emotions using descriptive prompts.
+- Allow to select mood type and write feelings to generate mood images.
 
-### Mood Generator
-- Allow users to select mood type and write feelings to generate mood images.
-- Save images.
+#### :city_sunset: Random Picker 
+- Surprise yourself with random, AI-generated visual content.
 
-### Random Picker
-- Random pick a generated image.
-- Save images.
 
 ## Run this App
 ### 1. Set up the environment
