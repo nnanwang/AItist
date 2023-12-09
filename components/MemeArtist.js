@@ -270,7 +270,7 @@ const styles = StyleSheet.create({
     },
  
     GenImageButton: { 
-        backgroundColor: 'rgb(252, 126, 149)',
+        backgroundColor: 'rgb(250, 15, 89)',
         margin: 20,
         padding: 10,
         borderRadius: 10,
