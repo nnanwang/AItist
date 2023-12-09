@@ -1,5 +1,5 @@
 # AItist
-Explore the AI Image Assistant, a cutting-edge application designed to revitalize your social media presence through AI-driven visual content. Harness the power of **OpenAI DALLE 3 API** to craft unique images, memes, and portraits tailored to your narrative.<br>
+Explore the AI Image Assistant, a cutting-edge React Native Expo application designed to revitalize your social media presence through AI-driven visual content. Harness the power of **OpenAI DALLE 3 API** to craft unique images, memes, and portraits tailored to your narrative.<br>
 :movie_camera: **Video Introduction**: https://brandeis.zoom.us/rec/share/VZOyC5CoW7brxnHTCx5T9nUGxzisLTfhV7Na_-nJ_eC2eVjPlC-OaT8zGaC1LHc.u3Qn7Y8Jjivn8SXv?startTime=1702153621000<br><br>
 <img width="905" alt="image" src="https://github.com/nnanwang/AItist/assets/74788199/654c4b5d-6557-4faf-b9ef-2b75a774218f">
 
