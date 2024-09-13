@@ -7,18 +7,22 @@ Explore the AI Image Assistant, a cutting-edge React Native Expo application des
 ## Four Key Features
 #### :woman: AI Portrait 
 - Craft unique self-portraits with the aid of AI.
-- Allow to select portrait styles.
+- Allow to select portrait styles.<br>
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/9661792d-c57a-4d64-b2d3-d2c9be97cce4">
+
 
 #### :grinning: Meme Artist  
 - Convert your stories into engaging memes with custom top and bottom text overlays.
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/78c32a0c-3067-4818-a907-31be89184647">
 
 #### :heart_eyes_cat: Mood Generator 
 - Generate images that resonate with your emotions using descriptive prompts.
 - Allow to select mood type and write feelings to generate mood images.
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/133a9e27-9e73-44f3-824e-78eda34660b0">
 
 #### :city_sunset: Random Picker 
 - Surprise yourself with random, AI-generated visual content.
-
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/3cd347bb-d2c8-415a-980d-64a4cec6d782">
 
 ## Run this App
 ### 1. Set up the environment
